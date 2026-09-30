@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="lqXxS1JEPEHqvSgFNiOt" name="Page-1">
+        <mxGraphModel dx="466" dy="1485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ppZqFfFHN16IT8NlGQ-E-3" edge="1" parent="1" source="ppZqFfFHN16IT8NlGQ-E-1" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ppZqFfFHN16IT8NlGQ-E-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ppZqFfFHN16IT8NlGQ-E-1" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="240" y="-390" as="geometry"/>
+                </mxCell>
+                <mxCell id="ppZqFfFHN16IT8NlGQ-E-2" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="240" y="-110" as="geometry"/>
+                </mxCell>
+                <mxCell id="ppZqFfFHN16IT8NlGQ-E-5" edge="1" parent="1" source="ppZqFfFHN16IT8NlGQ-E-4" style="edgeStyle=none;html=1;" target="ppZqFfFHN16IT8NlGQ-E-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ppZqFfFHN16IT8NlGQ-E-4" parent="1" style="whiteSpace=wrap;html=1;" value="Buka daftar peralatan" vertex="1">
+                    <mxGeometry height="40" width="120" x="195" y="-325" as="geometry"/>
+                </mxCell>
+                <mxCell id="ppZqFfFHN16IT8NlGQ-E-7" edge="1" parent="1" source="ppZqFfFHN16IT8NlGQ-E-6" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ppZqFfFHN16IT8NlGQ-E-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ppZqFfFHN16IT8NlGQ-E-6" parent="1" style="whiteSpace=wrap;html=1;" value="Lihat informasi ketersediaan" vertex="1">
+                    <mxGeometry height="60" width="120" x="195" y="-227" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
