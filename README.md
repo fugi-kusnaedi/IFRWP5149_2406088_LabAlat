@@ -1,58 +1,79 @@
- <div align="center">
+<div align="center">
 
-# FUGI KUSNAEDI
+<a href="https://github.com/fugi-kusnaedi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Halo%2C+aku+Fugi+Kusnaedi+%F0%9F%91%8B;Informatics+Engineering+Student;Developer+%C2%B7+Bassist+%C2%B7+Forever+Learner" alt="Animasi teks perkenalan Fugi Kusnaedi" />
+</a>
 
-**Informatics Engineering Student · Developer · Bassist**
+### **Informatics Engineering Student · Developer · Bassist**
 
 *Melaju satu langkah untuk lebih baik.*
 
-`CODE` · `CREATE` · `REPEAT`
-
-[GitHub](https://github.com/fugi-kusnaedi) · [Instagram](https://instagram.com/fugikusnaedi)
+[![GitHub](https://img.shields.io/badge/GitHub-fugi--kusnaedi-181717?style=for-the-badge&logo=github)](https://github.com/fugi-kusnaedi)
+[![Instagram](https://img.shields.io/badge/Instagram-fugikusnaedi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fugikusnaedi)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧭 Navigasi
 
-Halo! Saya Fugi Kusnaedi, mahasiswa Teknik Informatika yang tertarik dengan teknologi, pengembangan software, dan eksplorasi dunia digital.
+[👋 Tentang Saya](#-tentang-saya) · [🛠️ Tech Stack](#️-tech-stack) · [🎸 Di Luar Coding](#-di-luar-coding) · [📊 GitHub](#-aktivitas-github) · [📬 Kontak](#-yuk-terhubung)
 
-Saya senang belajar hal baru, mencoba berbagai teknologi, dan membangun sesuatu dari ide sederhana menjadi proyek nyata.
+## 👋 Tentang Saya
 
-- 🎓 **Education:** Informatics Engineering
-- 💻 **Focus:** Software & Web Development
-- 🎮 **Interest:** Game Development
-- 🎸 **Side Life:** Bassist at HEDWIG
-- 🚀 **Mindset:** Learn, Build, Improve.
+Halo! Saya Fugi Kusnaedi, mahasiswa Teknik Informatika yang tertarik dengan teknologi, pengembangan software, dan eksplorasi dunia digital. Saya senang belajar hal baru dan mengubah ide sederhana menjadi proyek nyata.
 
----
+<details>
+<summary>✨ Kenalan lebih dekat</summary>
+
+- 🎓 **Pendidikan:** Teknik Informatika
+- 💻 **Fokus:** Software & Web Development
+- 🎮 **Minat:** Game Development
+- 🎸 **Di luar coding:** Bermain bass bersama HEDWIG
+- 🚀 **Prinsip:** Learn, Build, Improve
+
+</details>
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+<details open>
+<summary>💻 Bahasa pemrograman</summary>
+<br>
 
-`C` `C++` `Python` `JavaScript` `PHP`
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Web & Database**
+</details>
 
-`HTML` `CSS` `JavaScript` `MySQL`
+<details>
+<summary>🌐 Web, database & tools</summary>
+<br>
 
-**Tools & Platforms**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-`VS Code` `Git` `GitHub` `Linux` `Android Studio`
+</details>
 
-**Exploring**
+<details>
+<summary>🔭 Teknologi yang sedang dieksplorasi</summary>
+<br>
 
-`Unity` `Unreal Engine` `Software Engineering`
+`Unity` · `Unreal Engine` · `Software Engineering`
 
----
+</details>
 
-## 🎸 Beyond the Code
+## 🎸 Di Luar Coding
 
-Tidak semua hal tentang saya berhubungan dengan baris kode.
-
-Di luar dunia Informatika, saya juga bermain bass bersama **HEDWIG**.
+Tidak semua hal tentang saya berhubungan dengan baris kode. Di luar dunia Informatika, saya juga bermain bass bersama **HEDWIG**.
 
 | 💻 Coding Life | 🎸 Music Life |
 |:---|:---|
@@ -63,36 +84,45 @@ Di luar dunia Informatika, saya juga bermain bass bersama **HEDWIG**.
 
 > Two different worlds, one creative mind.
 
----
-
-## 🎯 Current Direction
+## 🎯 Fokus Saat Ini
 
 - Mengembangkan kemampuan programming dan problem solving.
 - Membangun proyek web dan software yang bermanfaat.
 - Mengeksplorasi game development dan teknologi baru.
 - Terus berkembang tanpa berhenti bereksperimen.
 
----
-
-## 📂 Explore My GitHub
-
-Penasaran dengan proyek dan aktivitas saya?
-
-- [Explore Repositories](https://github.com/fugi-kusnaedi?tab=repositories)
-- [GitHub Contributions](https://github.com/fugi-kusnaedi?tab=contributions)
-- [GitHub Profile](https://github.com/fugi-kusnaedi)
-
----
-
-## 📬 Let's Connect
+## 📊 Aktivitas GitHub
 
 <div align="center">
 
-[Instagram @fugikusnaedi](https://instagram.com/fugikusnaedi)
-
-[GitHub @fugi-kusnaedi](https://github.com/fugi-kusnaedi)
+<a href="https://github.com/fugi-kusnaedi?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fugi-kusnaedi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Statistik GitHub Fugi Kusnaedi" />
+</a>
+<a href="https://github.com/fugi-kusnaedi?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fugi-kusnaedi&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa pemrograman yang sering digunakan" />
+</a>
 
 <br>
+
+[🔎 Jelajahi semua repository](https://github.com/fugi-kusnaedi?tab=repositories) · [📈 Lihat kontribusi](https://github.com/fugi-kusnaedi?tab=contributions)
+
+</div>
+
+<details>
+<summary>💡 Catatan tentang kartu statistik</summary>
+
+Kartu statistik dimuat dari layanan eksternal dan mungkin sesekali lambat atau tidak tersedia. Klik kartu untuk langsung membuka halaman repository GitHub saya.
+
+</details>
+
+## 📬 Yuk Terhubung
+
+Punya ide proyek, ingin ngobrol soal teknologi, atau mau bahas musik? Silakan sapa saya!
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-ikuti_di_sini-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fugikusnaedi)
+[![GitHub](https://img.shields.io/badge/GitHub-lihat_proyek-181717?style=for-the-badge&logo=github)](https://github.com/fugi-kusnaedi)
 
 **Code with purpose. Play with passion.**
 
