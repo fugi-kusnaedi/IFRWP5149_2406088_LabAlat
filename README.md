@@ -1,178 +1,101 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Fugi%20Kusnaedi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=🎸%20Coder%20by%20day%20•%20Band%20player%20by%20night&descSize=18&descAlignY=62" width="100%"/>
+# FUGI KUSNAEDI
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Melaju+satu+langkah+untuk+lebih+baik+🚀;Ngoding+siang,+ngeband+malam+🎶;Informatics+Engineering+%7C+NIM+2406088;Klik+bagian+di+bawah+buat+lihat+detail+👇" alt="Typing SVG" />
-</a>
+**Informatics Engineering Student · Developer · Bassist**
 
-<br/><br/>
+*Melaju satu langkah untuk lebih baik.*
 
-![Views](https://komarev.com/ghpvc/?username=fugi-kusnaedi&label=Profile%20Views&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/fugi-kusnaedi?style=for-the-badge&color=7c3aed&logo=github)
-![Stars](https://img.shields.io/github/stars/fugi-kusnaedi?style=for-the-badge&color=7c3aed&logo=github)
+`CODE` · `CREATE` · `REPEAT`
+
+[GitHub](https://github.com/fugi-kusnaedi) · [Instagram](https://instagram.com/fugikusnaedi)
 
 </div>
 
 ---
 
-## 🧭 Navigasi Cepat
+## 👋 About Me
 
-<div align="center">
+Halo! Saya Fugi Kusnaedi, mahasiswa Teknik Informatika yang tertarik dengan teknologi, pengembangan software, dan eksplorasi dunia digital.
 
-[🎧 About](#-about-me) • [🛠️ Tech](#️-tech-stack) • [🎸 Band](#-band-life) • [📊 Stats](#-github-stats) • [📫 Contact](#-lets-connect)
+Saya senang belajar hal baru, mencoba berbagai teknologi, dan membangun sesuatu dari ide sederhana menjadi proyek nyata.
 
-</div>
-
----
-
-## 🎧 About Me
-
-<details open>
-<summary><b>💻 Klik: Lagi ngapain sekarang?</b></summary>
-<br/>
-
-- 🔭 Lagi ngerjain: **Tugas data diri** (Analisis & Desain Berorientasi Objek)
-- 🌱 Lagi belajar: **Analisis & Desain Berorientasi Objek, UML**
-- 🎸 Side quest: **Band**
-- ⚡ Fun fact: **Tidur jam 4 subuh, bangun jam 6 pagi**
-
-</details>
-
-<details>
-<summary><b>🎯 Klik: Goals</b></summary>
-<br/>
-
-- Jadi software engineer yang solid
-- Bikin game & web yang kepake orang
-- Tetap manggung di sela-sela deadline 😄
-
-</details>
+- 🎓 **Education:** Informatics Engineering
+- 💻 **Focus:** Software & Web Development
+- 🎮 **Interest:** Game Development
+- 🎸 **Side Life:** Bassist at HEDWIG
+- 🚀 **Mindset:** Learn, Build, Improve.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>⚙️ Klik: Languages & Tools</b></summary>
-<br/>
-<div align="center">
+**Programming Languages**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark"/></a>
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=dark"/></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark"/></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark"/></a>
-<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark"/></a>
-<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity&theme=dark"/></a>
-<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal&theme=dark"/></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark"/></a>
+`C` `C++` `Python` `JavaScript` `PHP`
 
-</div>
-</details>
+**Web & Database**
 
-<details>
-<summary><b>🎨 Klik: Design Tools</b></summary>
-<br/>
-<div align="center">
+`HTML` `CSS` `JavaScript` `MySQL`
 
-<img src="https://skillicons.dev/icons?i=ai,ps&theme=dark"/>
+**Tools & Platforms**
 
-</div>
-</details>
+`VS Code` `Git` `GitHub` `Linux` `Android Studio`
+
+**Exploring**
+
+`Unity` `Unreal Engine` `Software Engineering`
 
 ---
 
-## 🎸 Band Life
+## 🎸 Beyond the Code
 
-<details open>
-<summary><b>🎶 Klik: Dunia band gua</b></summary>
-<br/>
+Tidak semua hal tentang saya berhubungan dengan baris kode.
 
-| 🎸 Band | 💻 Dev |
+Di luar dunia Informatika, saya juga bermain bass bersama **HEDWIG**.
+
+| 💻 Coding Life | 🎸 Music Life |
 |:---|:---|
-| Latihan & jam session | Ngoding & debugging |
-| Cari nada yang pas | Cari bug yang ngilang |
-| Tempo & harmoni | Logic & arsitektur |
+| Debugging | Rehearsal |
+| Finding solutions | Finding the right tone |
+| Logic & structure | Rhythm & harmony |
+| Building projects | Making music |
 
-> Ganti bagian ini dengan **nama band**, genre, dan link IG/YouTube band lu 🤘
-
-</details>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false" />
-
-<sub>↑ Quote ini ganti otomatis tiap halaman di-refresh</sub>
-
-</div>
+> Two different worlds, one creative mind.
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Direction
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fugi-kusnaedi&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e5e7eb"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=fugi-kusnaedi&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e5e7eb"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fugi-kusnaedi&theme=radical&hide_border=true&background=0f0c29&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa"/>
-
-</div>
-
-<details>
-<summary><b>📈 Klik: Grafik aktivitas</b></summary>
-<br/>
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fugi-kusnaedi&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" width="100%"/>
-
-</div>
-</details>
-
-<details>
-<summary><b>🏆 Klik: Trophy</b></summary>
-<br/>
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fugi-kusnaedi&theme=onedark&no-frame=true&row=1&column=7"/>
-
-</div>
-</details>
+- Mengembangkan kemampuan programming dan problem solving.
+- Membangun proyek web dan software yang bermanfaat.
+- Mengeksplorasi game development dan teknologi baru.
+- Terus berkembang tanpa berhenti bereksperimen.
 
 ---
 
-## 📫 Let's Connect
+## 📂 Explore My GitHub
+
+Penasaran dengan proyek dan aktivitas saya?
+
+- [Explore Repositories](https://github.com/fugi-kusnaedi?tab=repositories)
+- [GitHub Contributions](https://github.com/fugi-kusnaedi?tab=contributions)
+- [GitHub Profile](https://github.com/fugi-kusnaedi)
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
-<a href="https://instagram.com/fugikusnaedi"><img src="https://img.shields.io/badge/Instagram-@fugikusnaedi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/fugi-kusnaedi"><img src="https://img.shields.io/badge/GitHub-fugi--kusnaedi-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://discord.gg/fugikusnaedi_"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+[Instagram @fugikusnaedi](https://instagram.com/fugikusnaedi)
 
-<br/><br/>
+[GitHub @fugi-kusnaedi](https://github.com/fugi-kusnaedi)
 
-<a href="#top">⬆️ Balik ke atas</a>
+<br>
+
+**Code with purpose. Play with passion.**
+
+*Thanks for stopping by! ✨*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/fugi-kusnaedi/IFRWP5149_2406088_LabAlat/output/github-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/fugi-kusnaedi/IFRWP5149_2406088_LabAlat/output/github-snake.svg">
-
-  <img
-    alt="GitHub Snake Animation"
-    src="https://raw.githubusercontent.com/fugi-kusnaedi/IFRWP5149_2406088_LabAlat/output/github-snake.svg">
-</picture>
