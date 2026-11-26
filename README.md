@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/fugi-kusnaedi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Halo%2C+aku+Fugi+Kusnaedi+%F0%9F%91%8B;Informatics+Engineering+Student;Developer+%C2%B7+Bassist+%C2%B7+Forever+Learner" alt="Animasi teks perkenalan Fugi Kusnaedi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Halo%2C+aku+Fugi+Kusnaedi+%F0%9F%91%8B;Informatics+Student+%7C+Developer;Coding+by+day%2C+bass+by+night+%F0%9F%8E%B8" alt="Halo, aku Fugi Kusnaedi" />
 </a>
 
 ### **Informatics Engineering Student · Developer · Bassist**
@@ -11,20 +11,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-fugi--kusnaedi-181717?style=for-the-badge&logo=github)](https://github.com/fugi-kusnaedi)
 [![Instagram](https://img.shields.io/badge/Instagram-fugikusnaedi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fugikusnaedi)
 
+**👇 Klik bagian yang ingin kamu jelajahi**
+
+[Kenalan](#-tentang-saya) · [Proyek](#-pilih-petualanganmu) · [Skill](#️-tech-stack) · [Musik](#-di-luar-coding) · [Statistik](#-aktivitas-github) · [Kontak](#-yuk-terhubung)
+
 </div>
 
 ---
 
-## 🧭 Navigasi
-
-[👋 Tentang Saya](#-tentang-saya) · [🛠️ Tech Stack](#️-tech-stack) · [🎸 Di Luar Coding](#-di-luar-coding) · [📊 GitHub](#-aktivitas-github) · [📬 Kontak](#-yuk-terhubung)
-
 ## 👋 Tentang Saya
 
-Halo! Saya Fugi Kusnaedi, mahasiswa Teknik Informatika yang tertarik dengan teknologi, pengembangan software, dan eksplorasi dunia digital. Saya senang belajar hal baru dan mengubah ide sederhana menjadi proyek nyata.
+Halo! Saya Fugi Kusnaedi, mahasiswa Teknik Informatika yang tertarik dengan teknologi, pengembangan software, dan eksplorasi dunia digital. Saya senang belajar hal baru dan mengubah ide sederhana menjadi sesuatu yang bisa digunakan.
 
 <details>
-<summary>✨ Kenalan lebih dekat</summary>
+<summary>✨ Klik untuk kenalan lebih dekat</summary>
 
 - 🎓 **Pendidikan:** Teknik Informatika
 - 💻 **Fokus:** Software & Web Development
@@ -34,10 +34,28 @@ Halo! Saya Fugi Kusnaedi, mahasiswa Teknik Informatika yang tertarik dengan tekn
 
 </details>
 
+## 🧭 Pilih Petualanganmu
+
+| Mau lihat... | Klik di sini |
+|:---|:---|
+| 🧰 Proyek dan eksperimen terbaru | [Jelajahi repository](https://github.com/fugi-kusnaedi?tab=repositories) |
+| 🗣️ Aktivitas dan kontribusi | [Lihat kontribusi](https://github.com/fugi-kusnaedi?tab=contributions) |
+| 🤝 Ngobrol atau kolaborasi | [Kirim pesan di Instagram](https://instagram.com/fugikusnaedi) |
+| 🎸 Sisi musikal saya | [Lanjut ke bagian musik](#-di-luar-coding) |
+
+<details>
+<summary>🎲 Sedikit tantangan: kamu tim yang mana?</summary>
+
+- 💻 **Team Coding** — langsung intip [repository saya](https://github.com/fugi-kusnaedi?tab=repositories).
+- 🎸 **Team Music** — bayangkan satu lagu yang cocok buat sesi ngoding, lalu [rekomendasikan ke saya](https://instagram.com/fugikusnaedi).
+- 🚀 **Team Both** — ajak saya bikin proyek kreatif yang memadukan teknologi dan musik!
+
+</details>
+
 ## 🛠️ Tech Stack
 
 <details open>
-<summary>💻 Bahasa pemrograman</summary>
+<summary>💻 Bahasa pemrograman — klik untuk buka/tutup</summary>
 <br>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -49,7 +67,7 @@ Halo! Saya Fugi Kusnaedi, mahasiswa Teknik Informatika yang tertarik dengan tekn
 </details>
 
 <details>
-<summary>🌐 Web, database & tools</summary>
+<summary>🌐 Web, database & tools — klik untuk buka/tutup</summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -75,6 +93,9 @@ Halo! Saya Fugi Kusnaedi, mahasiswa Teknik Informatika yang tertarik dengan tekn
 
 Tidak semua hal tentang saya berhubungan dengan baris kode. Di luar dunia Informatika, saya juga bermain bass bersama **HEDWIG**.
 
+<details>
+<summary>🎧 Klik untuk lihat keseimbangan coding dan musik</summary>
+
 | 💻 Coding Life | 🎸 Music Life |
 |:---|:---|
 | Debugging | Rehearsal |
@@ -84,12 +105,14 @@ Tidak semua hal tentang saya berhubungan dengan baris kode. Di luar dunia Inform
 
 > Two different worlds, one creative mind.
 
+</details>
+
 ## 🎯 Fokus Saat Ini
 
-- Mengembangkan kemampuan programming dan problem solving.
-- Membangun proyek web dan software yang bermanfaat.
-- Mengeksplorasi game development dan teknologi baru.
-- Terus berkembang tanpa berhenti bereksperimen.
+- [ ] Mengembangkan kemampuan programming dan problem solving.
+- [ ] Membangun proyek web dan software yang bermanfaat.
+- [ ] Mengeksplorasi game development dan teknologi baru.
+- [ ] Terus berkembang tanpa berhenti bereksperimen.
 
 ## 📊 Aktivitas GitHub
 
@@ -102,7 +125,7 @@ Tidak semua hal tentang saya berhubungan dengan baris kode. Di luar dunia Inform
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fugi-kusnaedi&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa pemrograman yang sering digunakan" />
 </a>
 
-<br>
+<br><br>
 
 [🔎 Jelajahi semua repository](https://github.com/fugi-kusnaedi?tab=repositories) · [📈 Lihat kontribusi](https://github.com/fugi-kusnaedi?tab=contributions)
 
